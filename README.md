@@ -17,7 +17,7 @@
 - 📝 I regularly write scripts in PowerShell and Batch for day to day tasks at work.
 
 <br><br>
-![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
+![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white) [jbs4bmx](https://www.reddit.com/u/jbs4bmx/)
 
 <br><br><br><br>
 <h3 align="left">Languages and Tools:</h3>
@@ -30,10 +30,13 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
 
+<br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbs4bmx&show_icons=true&theme=dark&title_color=bb00ff&text_color=38deff&locale=en&layout=compact" alt="jbs4bmx" /></p>
 
+<br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jbs4bmx&show_icons=true&theme=dark&title_color=blue&text_color=ff007b&locale=en" alt="jbs4bmx" /></p>
 
+<br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jbs4bmx&theme=dark" alt="jbs4bmx" /></p>
 
 

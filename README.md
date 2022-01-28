@@ -3,6 +3,11 @@
 
 - 😄 Pronouns: He/Him
 
+
+<img align="right" alt="Coding" width="400" src="https://imgur.com/UHQYWJV">
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbs4bmx&label=Profile%20views&color=0e75b6&style=flat" alt="jbs4bmx" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jbs4bmx" alt="jbs4bmx" /></a> </p>
@@ -17,7 +22,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jbs4bmx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jbs4bmx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

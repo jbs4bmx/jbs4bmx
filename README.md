@@ -4,7 +4,7 @@
 - 😄 Pronouns: He/Him
 
 
-<img align="right" alt="Coding" width="400" src="https://imgur.com/UHQYWJV">
+<img align="Center" alt="ME" width="400" src="https://imgur.com/UHQYWJV">
 
 
 

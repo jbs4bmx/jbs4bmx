@@ -30,13 +30,10 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
 
-<br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbs4bmx&show_icons=true&theme=dark&title_color=bb00ff&text_color=38deff&locale=en&layout=compact" alt="jbs4bmx" /></p>
 
-<br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jbs4bmx&show_icons=true&theme=dark&title_color=blue&text_color=ff007b&locale=en" alt="jbs4bmx" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jbs4bmx&show_icons=true&theme=dark&title_color=blue&text_color=ff007b&locale=en" alt="jbs4bmx" /></p>
 
-<br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jbs4bmx&theme=dark" alt="jbs4bmx" /></p>
 
 

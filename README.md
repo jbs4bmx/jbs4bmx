@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jace</h1>
-<h3 align="center">A Programming/Scripting hobbyist and a Retro Game collector.</h3>
-
-- 😄 Pronouns: He/Him
+<h3 align="center">😄 Pronouns: He/Him</h3>
 
 
-<img align="right" alt="ME" width="600" src="https://i.imgur.com/UHQYWJV.jpg">
+<h3 align="center">I'm a Programming/Scripting hobbyist and a Retro Game collector. I enjoy</h3>
 
+
+
+<img align="center" alt="ME" width="600" src="https://i.imgur.com/UHQYWJV.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbs4bmx&label=Profile%20views&color=0e75b6&style=flat" alt="jbs4bmx" /> </p>
@@ -29,7 +30,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbs4bmx&show_icons=true&theme=dark&title_color=bb00ff&text_color=38deff&locale=en&layout=compact" alt="jbs4bmx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jbs4bmx&show_icons=true&theme=dark&title_color=2eff74&text_color=ff007b&locale=en" alt="jbs4bmx" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jbs4bmx&show_icons=true&theme=dark&title_color=blue&text_color=ff007b&locale=en" alt="jbs4bmx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jbs4bmx&theme=dark" alt="jbs4bmx" /></p>
 

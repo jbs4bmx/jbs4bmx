@@ -17,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/jbs4bmx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jbs4bmx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,7 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbs4bmx&show_icons=true&theme=dark&title_color=bb00ff&text_color=38deff&locale=en&layout=compact" alt="jbs4bmx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jbs4bmx&show_icons=true&title_color=2eff74&text_color=ff007b&locale=en" alt="jbs4bmx" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jbs4bmx&show_icons=true&theme=dark&title_color=2eff74&text_color=ff007b&locale=en" alt="jbs4bmx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jbs4bmx&theme=dark" alt="jbs4bmx" /></p>
 

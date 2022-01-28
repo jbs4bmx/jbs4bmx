@@ -16,8 +16,9 @@
 
 - 📝 I regularly write scripts in PowerShell and Batch for day to day tasks at work.
 
-<br><br>
+<!--
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white) [jbs4bmx](https://www.reddit.com/u/jbs4bmx/)
+-->
 
 <br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbs4bmx&show_icons=true&theme=dark&title_color=bb00ff&text_color=38deff&locale=en&layout=compact" alt="jbs4bmx" /></p>

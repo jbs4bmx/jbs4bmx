@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on modules for the Escape from Tarkov modding framework, Single-Player Tarkov. [SPT-AKI](https://www.sp-tarkov.com/)
 
-- 🌱 I’m currently learning **ITIL 4, Agile**
+- 🌱 I’m currently learning Japanese.
 
 - 👨‍💻 All of my projects are available here on Github.
 

@@ -14,7 +14,7 @@
 
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbs4bmx&show_icons=true&theme=dark&title_color=bb00ff&text_color=38deff&locale=en&layout=compact" alt="jbs4bmx" /></p>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 <h3 align="left">Languages:</h3>
 <p><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" width="30" height="30"/>Visual .NET</p>
 <p><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="30" height="30"/>C++</p>

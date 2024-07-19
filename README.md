@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbs4bmx&label=Profile%20views&color=0e75b6&style=flat" alt="jbs4bmx" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jbs4bmx" alt="jbs4bmx" /></a> </p>
 
-- 🔭 I’m currently working on mods for the 'Escape from Tarkov' modding framework, Single-Player Tarkov. [SPT-AKI](https://www.sp-tarkov.com/)
+- 🔭 I’m currently working on mods for the 'Escape from Tarkov' modding framework, Single-Player Tarkov. [SPT](https://www.sp-tarkov.com/)
 
 - 🌱 I’m currently learning Japanese.
 

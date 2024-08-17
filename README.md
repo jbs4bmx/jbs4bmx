@@ -36,7 +36,7 @@
 | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCodium-Light.svg" width="30" height="30"/> | ✨ [VSCodium](https://vscodium.com/) (My favorite Editor) |
 | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Light.svg" width="30" height="30"/> | [Unity](https://docs.unity.com/) |
 
-<br>
+<br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jbs4bmx&theme=dark" alt="jbs4bmx" /></p>
 
 

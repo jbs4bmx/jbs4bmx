@@ -12,20 +12,30 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbs4bmx&show_icons=true&theme=dark&title_color=bb00ff&text_color=38deff&locale=en&layout=compact" alt="jbs4bmx" /></p>
 <br><br><br><br><br><br><br>
-<h3 align="left">Languages:</h3>
-<p><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" width="30" height="30"/>Visual .NET</p>
-<p><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="30" height="30"/>C++</p>
-<p><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="30" height="30"/>C#</p>
-<p><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="30" height="30"/>Javascript</p>
-<p><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="30" height="30"/>Typescript</p>
-<p><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Light.svg" width="30" height="30"/>Windows PowerShell</p>
-<p><img align="left" src="https://badges.aleen42.com/src/cli.svg"/>Windows Command Line / Batch</p>
-<h3 align="left">IDEs:</h3>
-<p><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Light.svg" width="30" height="30"/>Visual Studio</p>
-<p><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" width="30" height="30"/>Visual Studio Code</p>
-<p><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCodium-Light.svg" width="30" height="30"/>✨ VSCodium ✨ (My favorite IDE)</p>
-<p><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Light.svg" width="30" height="30"/>Unity</p>
+
+<h3 align="left">Languages Used:</h3>
+
+| Icon | Language Name |
+|:----:|:-------------:|
+| <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" width="30" height="30"/> | [Visual .NET](https://learn.microsoft.com/en-us/dotnet/) |
+| <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="30" height="30"/> | [C++](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170) |
+| <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="30" height="30"/> | [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) |
+| <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="30" height="30"/> | [Javascript](https://www.javascript.com/) |
+| <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="30" height="30"/> | [Typescript](https://www.typescriptlang.org/) |
+| <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Light.svg" width="30" height="30"/> | ✨ [Windows PowerShell](https://learn.microsoft.com/en-us/powershell/) (My most used language) |
+| <img src="https://badges.aleen42.com/src/cli.svg"/> | [Windows Command Line / Batch](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands) |
 <br>
+
+<h3 align="left">IDE/Editors Used:</h3>
+
+| Icon | Tool Name |
+|:----:|:---------:|
+| <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Light.svg" width="30" height="30"/> | [Visual Studio](https://visualstudio.microsoft.com/) |
+| <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" width="30" height="30"/> | [Visual Studio Code](https://code.visualstudio.com/) |
+| <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCodium-Light.svg" width="30" height="30"/> | ✨ [VSCodium](https://vscodium.com/) (My favorite Editor) |
+| <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Light.svg" width="30" height="30"/> | [Unity](https://docs.unity.com/) |
+<br><br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jbs4bmx&theme=dark" alt="jbs4bmx" /></p>
 
 

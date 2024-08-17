@@ -5,11 +5,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jbs4bmx" alt="jbs4bmx" /></a> </p>
 
 - 🔭 I’m currently working on mods for the 'Escape from Tarkov' modding framework, Single-Player Tarkov. [SPT](https://www.sp-tarkov.com/)
-
 - 🌱 I’m currently learning Japanese.
-
 - 👨‍💻 All of my projects are available here on Github.
-
 - 📝 I regularly write scripts in PowerShell and Batch for day to day tasks at work.
 
 <br>
@@ -28,8 +25,6 @@
 <p><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" width="30" height="30"/>Visual Studio Code</p>
 <p><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCodium-Light.svg" width="30" height="30"/>✨ VSCodium ✨ (My favorite IDE)</p>
 <p><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Light.svg" width="30" height="30"/>Unity</p>
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jbs4bmx&show_icons=true&theme=dark&title_color=blue&text_color=ff007b&locale=en" alt="jbs4bmx" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jbs4bmx&theme=dark" alt="jbs4bmx" /></p>
 

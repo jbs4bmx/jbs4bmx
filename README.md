@@ -11,8 +11,9 @@
 
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbs4bmx&show_icons=true&theme=dark&title_color=bb00ff&text_color=38deff&locale=en&layout=compact" alt="jbs4bmx" /></p>
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
+<br>
 <h3 align="left">Languages Used:</h3>
 
 | Icon | Language Name |
@@ -24,8 +25,8 @@
 | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="30" height="30"/> | [Typescript](https://www.typescriptlang.org/) |
 | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Light.svg" width="30" height="30"/> | ✨ [Windows PowerShell](https://learn.microsoft.com/en-us/powershell/) (My most used language) |
 | <img src="https://badges.aleen42.com/src/cli.svg"/> | [Windows Command Line / Batch](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands) |
-<br>
 
+<br>
 <h3 align="left">IDE/Editors Used:</h3>
 
 | Icon | Tool Name |
@@ -34,8 +35,8 @@
 | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" width="30" height="30"/> | [Visual Studio Code](https://code.visualstudio.com/) |
 | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCodium-Light.svg" width="30" height="30"/> | ✨ [VSCodium](https://vscodium.com/) (My favorite Editor) |
 | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Light.svg" width="30" height="30"/> | [Unity](https://docs.unity.com/) |
-<br><br>
 
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jbs4bmx&theme=dark" alt="jbs4bmx" /></p>
 
 

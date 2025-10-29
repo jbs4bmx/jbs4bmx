@@ -23,7 +23,7 @@
 | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="30" height="30"/> | [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) |
 | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="30" height="30"/> | [Javascript](https://www.javascript.com/) |
 | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="30" height="30"/> | [Typescript](https://www.typescriptlang.org/) |
-| <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Light.svg" width="30" height="30"/> | ✨ [Windows PowerShell](https://learn.microsoft.com/en-us/powershell/) (My most used language) |
+| <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Light.svg" width="30" height="30"/> | ✨ [Windows PowerShell](https://learn.microsoft.com/en-us/powershell/) |
 | <img src="https://badges.aleen42.com/src/cli.svg"/> | [Windows Command Line / Batch](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands) |
 
 <br>
@@ -32,8 +32,8 @@
 | Icon | Tool Name |
 |:----:|:---------:|
 | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Light.svg" width="30" height="30"/> | [Visual Studio](https://visualstudio.microsoft.com/) |
-| <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" width="30" height="30"/> | [Visual Studio Code](https://code.visualstudio.com/) |
-| <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCodium-Light.svg" width="30" height="30"/> | ✨ [VSCodium](https://vscodium.com/) (My favorite Editor) |
+| <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" width="30" height="30"/> | ✨ [Visual Studio Code](https://code.visualstudio.com/) |
+| <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCodium-Light.svg" width="30" height="30"/> | [VSCodium](https://vscodium.com/) |
 | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Light.svg" width="30" height="30"/> | [Unity](https://docs.unity.com/) |
 
 <br><br>
